@@ -1,1 +1,1 @@
-Write a script that changes the working directory
+Write a script that lists all files
