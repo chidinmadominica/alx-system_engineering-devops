@@ -1,1 +1,1 @@
-Create a script that delete all files
+Create a script that creates the directories
