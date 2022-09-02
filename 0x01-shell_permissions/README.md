@@ -1,1 +1,1 @@
-file hello in the working directory
+scripts that sets permission to hello
