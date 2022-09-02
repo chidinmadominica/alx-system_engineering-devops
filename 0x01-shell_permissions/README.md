@@ -1,1 +1,1 @@
-execute permission to the group owner
+file hello in the working directory
