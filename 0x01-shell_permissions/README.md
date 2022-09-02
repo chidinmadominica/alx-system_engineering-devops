@@ -1,1 +1,1 @@
-Write a script that prints
+Script that prints groups
