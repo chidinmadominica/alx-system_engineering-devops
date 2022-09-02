@@ -1,1 +1,1 @@
-script that adds execute
+execute permission to the group owner
