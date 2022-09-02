@@ -1,1 +1,1 @@
-script that changes the owner
+script that adds execute
