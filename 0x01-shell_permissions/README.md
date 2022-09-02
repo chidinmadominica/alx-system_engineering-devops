@@ -1,1 +1,1 @@
-create a directory called my dir
+script that changes the group owner to school
