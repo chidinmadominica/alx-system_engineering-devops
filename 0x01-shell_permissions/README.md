@@ -1,1 +1,1 @@
-Create a script that switches
+Write a script that prints
