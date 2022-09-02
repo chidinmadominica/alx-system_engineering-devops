@@ -1,1 +1,1 @@
-scripts thats adds execute permission to subdirectories
+create a directory called my dir
