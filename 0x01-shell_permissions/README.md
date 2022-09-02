@@ -1,1 +1,1 @@
-script that changes the owner to vincent
+scripts that changes from hello to vincent to staff
