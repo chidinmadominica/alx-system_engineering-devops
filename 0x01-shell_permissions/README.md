@@ -1,1 +1,1 @@
-set the mode of the file hello to olleh
+scripts thats adds execute permission to subdirectories
