@@ -1,1 +1,1 @@
-display the content of etc/hosts
+display the last 10 lines
