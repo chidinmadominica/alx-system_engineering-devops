@@ -1,1 +1,1 @@
-script that deletes all the regular file
+script that counts the number
