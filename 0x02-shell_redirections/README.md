@@ -1,1 +1,1 @@
-script that displays the third line
+script containing the text Best School
