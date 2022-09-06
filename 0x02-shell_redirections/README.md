@@ -1,1 +1,1 @@
-lines of files starting with letters
+replace all character
