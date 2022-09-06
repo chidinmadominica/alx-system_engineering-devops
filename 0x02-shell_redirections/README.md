@@ -1,1 +1,1 @@
-script that reverse its input
+based on the file
