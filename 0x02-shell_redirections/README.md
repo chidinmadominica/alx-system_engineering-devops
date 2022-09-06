@@ -1,1 +1,1 @@
-command that find all the empty files
+all files with git exetension
