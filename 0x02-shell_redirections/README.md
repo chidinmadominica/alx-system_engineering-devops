@@ -1,1 +1,1 @@
-script that counts the number
+script that displays the 10 newest files
