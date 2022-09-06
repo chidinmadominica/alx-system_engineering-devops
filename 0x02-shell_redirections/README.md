@@ -1,1 +1,1 @@
-script that removes all letters from input
+script that reverse its input
