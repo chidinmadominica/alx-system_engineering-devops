@@ -1,1 +1,1 @@
-lines containing pattern root and 3 lines
+display all the line in this bin that do not contain bin
