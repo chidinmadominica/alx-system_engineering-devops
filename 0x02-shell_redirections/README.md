@@ -1,1 +1,1 @@
-script containing the text Best School
+script that creates a file named exactly
