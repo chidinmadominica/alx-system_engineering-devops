@@ -1,1 +1,1 @@
-script that convert a number from base2 to base 10
+script that print all possible combinations of two letters
