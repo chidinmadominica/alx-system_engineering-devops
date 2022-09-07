@@ -1,1 +1,1 @@
-script that prints results of the addition
+script that print the result of power divided bydivide
