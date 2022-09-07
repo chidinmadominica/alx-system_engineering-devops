@@ -1,1 +1,1 @@
-script that print the result of power divided bydivide
+script that displays the result of breath and power of love
