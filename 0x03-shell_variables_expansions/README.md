@@ -1,1 +1,1 @@
-script that print all possible combinations of two letters
+script that prints a number with two decimals
